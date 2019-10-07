@@ -167,11 +167,11 @@ if __name__ == "__main__":
 
     virus_name = "Smallpox"
     repro_rate = .06
-    mortality_rate = .2
+    mortality_rate = .4
     pop_size = 100
     vacc_percentage = .1
 
-    initial_infected = 1
+    initial_infected = 2
 
     virus = Virus(virus_name, repro_rate, mortality_rate)
     sim = Simulation(pop_size, vacc_percentage, initial_infected, virus)

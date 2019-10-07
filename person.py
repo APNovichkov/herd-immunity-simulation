@@ -29,6 +29,7 @@ class Person(object):
                 did_survive = True
             else:
                 self.is_alive = False
+                self.is_vaccinated = False
                 did_survive = False
 
         self.logger.log_infection_survival(self, did_survive)

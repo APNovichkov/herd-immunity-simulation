@@ -20,11 +20,13 @@ class Logger(object):
         f = open(self.file_name, "a+")
 
         if did_infect:
-            f.write("{} infects {}\n".format(person._id, random_person._id))
+            f.write("{} attempts to infect {}\n".format(person._id, random_person._id))
         elif random_person_sick:
             f.write("{} did not infect {} because {} is already sick\n".format(person._id, random_person._id, random_person._id))
-        else:
+        elif random_person_vacc:
             f.write("{} did not infect {} because {} is vaccinated\n".format(person._id, random_person._id, random_person._id))
+        else:
+            f.write("{} did not infect {} because {} got lucky\n".format(person._id, random_person._id, random_person._id))
 
         f.close()
         pass
@@ -35,7 +37,7 @@ class Logger(object):
         if did_die_from_infection:
             f.write("{} died from infection\n".format(person._id))
         else:
-            f.write("{} survived the infection\n".format(person._id))
+            f.write("{} survived the infection and is now vaccinated\n".format(person._id))
 
         ''' The Simulation object uses this method to log the results of every
         call of a Person object's .resolve_infection() method.
