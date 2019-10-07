@@ -2,7 +2,6 @@ import random
 random.seed(42)
 from virus import Virus
 
-
 class Person(object):
     ''' Person objects will populate the simulation. '''
 
@@ -28,14 +27,14 @@ class Person(object):
         # Only called if infection attribute is not None.
         # TODO:  Finish this method. Should return a Boolean
         random_number = random.random()
-    
+
         if random_number > self.infection.mortality_rate:
-            self.is_vaccinated = True 
-            self.infection = None 
+            self.is_vaccinated = True
+            self.infection = None
         else:
-            self.is_alive = False 
-            
-        
+            self.is_alive = False
+
+
 
 
 ''' These are simple tests to ensure that you are instantiating your Person class correctly. '''

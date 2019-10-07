@@ -3,9 +3,6 @@ class Logger(object):
     # TODO: Write a test suite for this class to make sure each method is working
     # as expected.
 
-    # PROTIP: Write your tests before you solve each function, that way you can
-    # test them one by one as you write your class.
-
     def __init__(self, file_name):
         # TODO:  Finish this initialization method. The file_name passed should be the
         # full file name of the file that the logs will be written to.
@@ -73,3 +70,18 @@ class Logger(object):
         # new one begins.
         # NOTE: Here is an opportunity for a stretch challenge!
         pass
+
+def test_logger_initialization(self):
+    pass
+
+def test_write_metadata(self):
+    pass
+
+def test_log_interaction(self):
+    pass
+
+def test_log_infection_survival(self):
+    pass
+
+def test_log_time_step(self):
+    pass
