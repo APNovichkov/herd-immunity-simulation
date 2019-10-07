@@ -28,12 +28,12 @@ class Person(object):
         # Only called if infection attribute is not None.
         # TODO:  Finish this method. Should return a Boolean
         random_number = random.random()
-
-        if random_number > self.infection.mortality_rate:
-            self.is_vaccinated = True
-            self.infection = None
-        else:
-            self.is_alive = False
+        if self.infection != 0:
+            if random_number > self.infection.mortality_rate:
+                self.is_vaccinated = True
+                self.infection = None
+            else:
+                self.is_alive = False
 
 
 
