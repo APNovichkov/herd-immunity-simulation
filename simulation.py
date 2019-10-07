@@ -31,6 +31,8 @@ class Simulation(object):
 
         self.NUM_PPL_TO_INTERACT_WITH = 100
 
+        logger.write_metadata(self.population_size, self.percent_vaccinated, self.virus.name, self.virus.mortality_rate, self.virus.repro_rate)
+
     def _create_population(self):
         people = []
 
@@ -66,14 +68,15 @@ class Simulation(object):
         # TODO: Finish this method. To simplify the logic here, use the helper method
         # _simulation_should_continue() to tell us whether or not we should continue
         # the simulation and run at least 1 more time_step.
-        # HINT: You may want to call the logger's log_time_step() method at the end of each time step.
+
         time_step_counter = 0
 
         while _simulation_should_continue():
             self.time_step()
+            logger.log_time_step(time_step_counter)
             time_step_counter += 1
 
-        print('The simulation has ended after {time_step_counter} turns.'.format(time_step_counter))
+        print('The simulation has ended after {time_step_counter} steps'.format(time_step_counter))
 
         pass
 
@@ -95,23 +98,18 @@ class Simulation(object):
         assert person.is_alive == True
         assert random_person.is_alive == True
 
+        did_get_infected = False
+
         if not is_person_infected(random_person) and not random_person.is_vaccinated:
             # random_int = randint(0,1)
-            if random(0, 1) < random_person.infection.repro_rate:
-                self.newly_infected.append(random_person._id)
 
-        # TODO: Finish this method.
-        #  The possible cases you'll need to cover are listed below:
-            # random_person is vaccinated:
-            #     nothing happens to random person.
-            # random_person is already infected:
-            #     nothing happens to random person.
-            # random_person is healthy, but unvaccinated:
-            #     generate a random number between 0 and 1.  If that number is smaller
-            #     than repro_rate, random_person's ID should be appended to
-            #     Simulation object's newly_infected array, so that their .infected
-            #     attribute can be changed to True at the end of the time step.
-        # TODO: Call slogger method during this method.
+            if random(0, 1) < random_person.infection.repro_rate:
+                if not random_person.did_survive_infection():
+                    self.newly_infected.append(random_person._id)
+                    did_get_infected = True
+
+        log.log_interaction(person, random_person, is_person_infected(random_person), random_person.is_vaccinated, did_get_infected)
+
         pass
 
     def _infect_newly_infected(self):

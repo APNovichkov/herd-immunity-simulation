@@ -38,6 +38,8 @@ class Person(object):
                 self.is_alive = False
                 did_survive = False
 
+        logger.log_infection_survival(self, did_survive)
+
         return did_survive
 
 
