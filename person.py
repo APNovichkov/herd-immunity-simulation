@@ -1,6 +1,7 @@
 import random
-random.seed(42)
 from virus import Virus
+random.seed(42)
+
 
 class Person(object):
     ''' Person objects will populate the simulation. '''
@@ -17,8 +18,6 @@ class Person(object):
         self.is_alive = True  # boolean
         self.is_vaccinated = None  # boolean
         self.infection = None  # Virus object or None
-
-        self.is_infected
 
     def did_survive_infection(self):
         ''' Generate a random number and compare to virus's mortality_rate.

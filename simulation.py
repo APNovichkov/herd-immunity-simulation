@@ -8,8 +8,7 @@ random.seed(42)
 
 
 class Simulation(object):
-    def __init__(self, population_size, percent_vaccinated, num_initial_infected=1, virus):
-
+    def __init__(self, population_size, percent_vaccinated, num_initial_infected, virus):
         # TODO: Store each newly infected person's ID in newly_infected attribute.
         # At the end of each time step, call self._infect_newly_infected()
         # and then reset .newly_infected back to an empty list.
@@ -89,6 +88,7 @@ class Simulation(object):
                         interaction(person, random_person)
                         interaction_counter += 1
 
+        _infect_newly_infected()
         pass
 
     def interaction(self, person, random_person):
@@ -96,9 +96,9 @@ class Simulation(object):
         assert random_person.is_alive == True
 
         if not is_person_infected(random_person) and not random_person.is_vaccinated:
-            random_int = randint(0,1)
-            if randint(0,1) < random_person.infection.repro_rate < 
-
+            # random_int = randint(0,1)
+            if random(0, 1) < random_person.infection.repro_rate:
+                self.newly_infected.append(random_person._id)
 
         # TODO: Finish this method.
         #  The possible cases you'll need to cover are listed below:
@@ -115,6 +115,10 @@ class Simulation(object):
         pass
 
     def _infect_newly_infected(self):
+        for person_id in self.newly_infected:
+            self.population.get(person_id).infection = self.infection
+
+        self.newly_infected = []
         ''' This method should iterate through the list of ._id stored in self.newly_infected
         and update each Person object with the disease. '''
         # TODO: Call this method at the end of every time step and infect each Person.
@@ -125,7 +129,8 @@ class Simulation(object):
     def is_person_infected(person):
         return person.infection is not None
 
-if __name__ == "__main__":
+
+if __name__ == "____-main__":
     params = sys.argv[1:]
 
     virus_name = str(params[0])
@@ -138,6 +143,22 @@ if __name__ == "__main__":
         initial_infected = int(params[5])
     else:
         initial_infected = 1
+
+    virus = Virus(name, repro_rate, mortality_rate)
+    sim = Simulation(pop_size, vacc_percentage, initial_infected, virus)
+
+    sim.run()
+
+if __name__ == "__main__":
+    # params = sys.argv[1:]
+
+    virus_name = "Smallpox"
+    repro_num = .06
+    mortality_rate = .2
+    pop_size = 10000
+    vacc_percentage = .5
+
+    initial_infected = 5
 
     virus = Virus(name, repro_rate, mortality_rate)
     sim = Simulation(pop_size, vacc_percentage, initial_infected, virus)
