@@ -10,9 +10,10 @@ class Logger(object):
         f = open(self.file_name, "w+")
 
         f.write("Population Size\tPercent Vaccinated\tVirus Name\tMortality Rate\tRepro Rate\n")
-        f.write("{}\t{}\t{}\t{}\t{}\t{}\n".format(pop_size, vacc_percentage, virus_name, mortality_rate, basic_repro_num))
+        f.write("{}\t{}\t{}\t{}\t{}\n".format(pop_size, vacc_percentage, virus_name, mortality_rate, basic_repro_num))
         f.write("--------------------------------------------------------------------------------------------------\n")
 
+        f.close()
         pass
 
     def log_interaction(self, person, random_person, random_person_sick=None, random_person_vacc=None, did_infect=None):
@@ -25,6 +26,7 @@ class Logger(object):
         else:
             f.write("{} did not infect {} because {} is vaccinated\n".format(person._id, random_person._id, random_person._id))
 
+        f.close()
         pass
 
     def log_infection_survival(self, person, did_die_from_infection):
@@ -42,12 +44,13 @@ class Logger(object):
             "{person.ID} died from infection\n" or "{person.ID} survived infection.\n"
         '''
 
+        f.close()
         pass
 
     def log_time_step(self, time_step_number):
         f = open(self.file_name, "a+")
 
-        f.write("Time step {} ended, beginning {}\n".formate(time_step_number, time_step_number + 1))
+        f.write("Time step {} ended, beginning {}\n".format(time_step_number, time_step_number + 1))
 
         ''' STRETCH CHALLENGE DETAILS:
 
@@ -61,6 +64,7 @@ class Logger(object):
             The total number of dead, including those that died during this time step.
         '''
 
+        f.close()
         pass
 
 def test_logger_initialization(self):
