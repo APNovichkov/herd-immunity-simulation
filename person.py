@@ -1,14 +1,16 @@
 import random
 from virus import Virus
+from logger import Logger
 random.seed(42)
 
 
 class Person(object):
-    def __init__(self, _id, is_vaccinated, infection=None):
+    def __init__(self, _id, is_vaccinated, logger, infection=None):
         self._id = _id
         self.is_alive = True
         self.is_vaccinated = None
         self.infection = infection
+        self.logger = logger
 
     def did_survive_infection(self):
         ''' Generate a random number and compare to virus's mortality_rate.
@@ -29,7 +31,7 @@ class Person(object):
                 self.is_alive = False
                 did_survive = False
 
-        logger.log_infection_survival(self, did_survive)
+        self.logger.log_infection_survival(self, did_survive)
 
         return did_survive
 

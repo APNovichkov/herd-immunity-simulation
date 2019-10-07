@@ -45,15 +45,15 @@ class Simulation(object):
 
             if person_id < self.num_initial_infected:
                 print("This person is infected!")
-                person = Person(person_id, False, self.virus)
+                person = Person(person_id, False, self.logger, self.virus)
                 people.append(person)
             elif person_id >= self.num_initial_infected and person_id < (self.percent_vaccinated * self.population_size + self.num_initial_infected):
                 print("This person is vaccinated")
-                person = Person(person_id, True, None)
+                person = Person(person_id, True, self.logger, None)
                 people.append(person)
             else:
                 print("This person is neither vaccinated or infected")
-                person = Person(person_id, False, None)
+                person = Person(person_id, False, self.logger, None)
                 people.append(person)
 
         print("Done creating population")
@@ -72,14 +72,7 @@ class Simulation(object):
                 should_simulation_continue = True
                 break
 
-        self.step_counter -= 1
-
-        if self.step_counter > 0:
-            return True
-        else:
-            return False
-
-        # return should_simulation_continue
+        return should_simulation_continue
 
     def run(self):
         self.population = self.create_population()
@@ -100,13 +93,13 @@ class Simulation(object):
         pass
 
     def time_step(self):
-        print("Single time step")
+        #print("Single time step")
         interaction_counter = 0
 
         for person in self.population:
-            print("Running through person: {}".format(person._id))
+            #print("Running through person: {}".format(person._id))
             if person.infection is not None and person.is_alive:
-                print("Found an infected person!")
+                #print("Found an infected person!")
                 while interaction_counter < self.NUM_PPL_TO_INTERACT_WITH:
                     random_person = self.population[(random.randint(0, self.population_size - 1))]
                     if random_person.is_alive:
@@ -125,7 +118,7 @@ class Simulation(object):
         if not self.is_person_infected(random_person) and not random_person.is_vaccinated:
             # random_int = randint(0,1)
 
-            if random(0, 1) < random_person.infection.repro_rate:
+            if random.random() < self.virus.repro_rate:
                 if not random_person.did_survive_infection():
                     self.newly_infected.append(random_person._id)
                     did_get_infected = True
@@ -136,7 +129,7 @@ class Simulation(object):
 
     def infect_newly_infected(self):
         for person_id in self.newly_infected:
-            self.population.get(person_id).infection = self.infection
+            self.population[(person_id)].infection = self.virus
 
         self.newly_infected = []
         ''' This method should iterate through the list of ._id stored in self.newly_infected
@@ -146,7 +139,7 @@ class Simulation(object):
         # to reset self.newly_infected back to an empty list.
         pass
 
-    def is_person_infected(person):
+    def is_person_infected(self, person):
         return person.infection is not None
 
 
@@ -175,8 +168,8 @@ if __name__ == "__main__":
     virus_name = "Smallpox"
     repro_rate = .06
     mortality_rate = .2
-    pop_size = 30
-    vacc_percentage = .5
+    pop_size = 100
+    vacc_percentage = .1
 
     initial_infected = 1
 
