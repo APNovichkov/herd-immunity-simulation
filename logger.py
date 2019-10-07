@@ -21,9 +21,9 @@ class Logger(object):
         if did_infect:
             f.write("{} infects {}\n".format(person._id, random_person._id))
         elif random_person_sick:
-            f.write("{} did not infect {} because {} is already sick".format(person._id, random_person._id, random_person._id))
+            f.write("{} did not infect {} because {} is already sick\n".format(person._id, random_person._id, random_person._id))
         else:
-            f.write("{} did not infect {} because {} is vaccinated".format(person._id, random_person._id, random_person._id))
+            f.write("{} did not infect {} because {} is vaccinated\n".format(person._id, random_person._id, random_person._id))
 
         pass
 
@@ -31,9 +31,9 @@ class Logger(object):
         f = open(self.file_name, "a+")
 
         if did_die_from_infection:
-            f.write("{} died from infection".format(person._id))
+            f.write("{} died from infection\n".format(person._id))
         else:
-            f.write("{} survived the infection".format(person._id))
+            f.write("{} survived the infection\n".format(person._id))
 
         ''' The Simulation object uses this method to log the results of every
         call of a Person object's .resolve_infection() method.
@@ -41,12 +41,14 @@ class Logger(object):
         The format of the log should be:
             "{person.ID} died from infection\n" or "{person.ID} survived infection.\n"
         '''
-        # TODO: Finish this method. If the person survives, did_die_from_infection
-        # should be False.  Otherwise, did_die_from_infection should be True.
-        # Append the results of the infection to the logfile
+
         pass
 
     def log_time_step(self, time_step_number):
+        f = open(self.file_name, "a+")
+
+        f.write("Time step {} ended, beginning {}\n".formate(time_step_number, time_step_number + 1))
+
         ''' STRETCH CHALLENGE DETAILS:
 
         If you choose to extend this method, the format of the summary statistics logged
@@ -57,13 +59,8 @@ class Logger(object):
             The number of people that died on this specific time step.
             The total number of people infected in the population, including the newly infected
             The total number of dead, including those that died during this time step.
-
-        The format of this log should be:
-            "Time step {time_step_number} ended, beginning {time_step_number + 1}\n"
         '''
-        # TODO: Finish this method. This method should log when a time step ends, and a
-        # new one begins.
-        # NOTE: Here is an opportunity for a stretch challenge!
+
         pass
 
 def test_logger_initialization(self):
