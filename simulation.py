@@ -9,41 +9,28 @@ random.seed(42)
 
 class Simulation(object):
     def __init__(self, population_size, percent_vaccinated, num_initial_infected=1, virus):
-        ''' Logger object logger records all events during the simulation.
-        Population represents all Persons in the population.
-        The next_person_id is the next available id for all created Persons,
-        and should have a unique _id value.
-        The vaccination percentage represents the total percentage of population
-        vaccinated at the start of the simulation.
-        You will need to keep track of the number of people currently infected with the disease.
-        The total infected people is the running total that have been infected since the
-        simulation began, including the currently infected people who died.
-        You will also need to keep track of the number of people that have die as a result
-        of the infection.
 
-        All arguments will be passed as command-line arguments when the file is run.
-        HINT: Look in the if __name__ == "__main__" function at the bottom.
-        '''
-        # TODO: Create a Logger object and bind it to self.logger.
-        # Remember to call the appropriate logger method in the corresponding parts of the simulation.
-        # TODO: Call self._create_population() and pass in the correct parameters.
-        # Store the array that this method will return in the self.population attribute.
         # TODO: Store each newly infected person's ID in newly_infected attribute.
         # At the end of each time step, call self._infect_newly_infected()
         # and then reset .newly_infected back to an empty list.
-        self.population = []
+        self.population = self._create_population()
         self.population_size = population_size
         self.next_person_id = 0
         self.virus = virus
+
         self.num_initial_infected = num_initial_infected
         self.num_total_infected = 0
         self.num_current_infected = 0
         self.percent_vaccinated = percent_vaccinated
         self.num_dead = 0
+
         self.file_name = "{}_simulation_pop_{}_vp_{}_infected_{}.txt".format(
             virus_name, population_size, vacc_percentage, initial_infected)
         self.logger = Logger(self.file_name)
+
         self.newly_infected = []
+
+        self.NUM_PPL_TO_INTERACT_WITH = 100
 
     def _create_population(self):
         people = []
@@ -92,32 +79,26 @@ class Simulation(object):
         pass
 
     def time_step(self):
-        ''' This method should contain all the logic for computing one time step
-        in the simulation.
+        interaction_counter = 0
 
-        This includes:
-            1. 100 total interactions with a randon person for each infected person
-                in the population
-            2. If the person is dead, grab another random person from the population.
-                Since we don't interact with dead people, this does not count as an interaction.
-            3. Otherwise call simulation.interaction(person, random_person) and
-                increment interaction counter by 1.
-            '''
-        # TODO: Finish this method.
+        for person in self.population():
+            if person.infection is not None and person.is_alive:
+                while interaction_counter < NUM_PPL_TO_INTERACT_WITH:
+                    random_person = self.population.get(randint(0, self.population_size - 1))
+                    if random_person.is_alive:
+                        interaction(person, random_person)
+                        interaction_counter += 1
+
         pass
 
     def interaction(self, person, random_person):
-        '''This method should be called any time two living people are selected for an
-        interaction. It assumes that only living people are passed in as parameters.
-
-        Args:
-            person1 (person): The initial infected person
-            random_person (person): The person that person1 interacts with.
-        '''
-        # Assert statements are included to make sure that only living people are passed
-        # in as params
         assert person.is_alive == True
         assert random_person.is_alive == True
+
+        if not is_person_infected(random_person) and not random_person.is_vaccinated:
+            random_int = randint(0,1)
+            if randint(0,1) < random_person.infection.repro_rate < 
+
 
         # TODO: Finish this method.
         #  The possible cases you'll need to cover are listed below:
@@ -141,6 +122,8 @@ class Simulation(object):
         # to reset self.newly_infected back to an empty list.
         pass
 
+    def is_person_infected(person):
+        return person.infection is not None
 
 if __name__ == "__main__":
     params = sys.argv[1:]
