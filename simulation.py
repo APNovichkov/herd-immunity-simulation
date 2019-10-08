@@ -92,14 +92,15 @@ class Simulation(object):
 
         pass
 
+    # This function works!
     def time_step(self):
-        #print("Single time step")
+        # print("Single time step")
         interaction_counter = 0
 
         for person in self.population:
-            #print("Running through person: {}".format(person._id))
-            if person.infection is not None and person.is_alive:
-                #print("Found an infected person!")
+            # print("Running through person: {}".format(person._id))
+            if self.is_person_infected(person) and person.is_alive:
+                # print("Found an infected person!")
                 while interaction_counter < self.NUM_PPL_TO_INTERACT_WITH:
                     random_person = self.population[(random.randint(0, self.population_size - 1))]
                     if random_person.is_alive:
@@ -107,23 +108,26 @@ class Simulation(object):
                         interaction_counter += 1
 
         self.infect_newly_infected()
+
+        for person in self.population:
+            if self.is_person_infected(person):
+                person.did_survive_infection()
+
         pass
 
+    # This function is broken!
     def interaction(self, person, random_person):
         assert person.is_alive == True
         assert random_person.is_alive == True
 
-        did_get_infected = False
-
         if not self.is_person_infected(random_person) and not random_person.is_vaccinated:
-            # random_int = randint(0,1)
-
             if random.random() < self.virus.repro_rate:
-                if not random_person.did_survive_infection():
-                    self.newly_infected.append(random_person._id)
-                    did_get_infected = True
+                # infect the person
+                self.newly_infected.append(random_person._id)
+                self.logger.log_interaction(person, random_person, False, False, True)
 
-        self.logger.log_interaction(person, random_person, self.is_person_infected(random_person), random_person.is_vaccinated, did_get_infected)
+        else:
+            self.logger.log_interaction(person, random_person, self.is_person_infected(random_person), random_person.is_vaccinated, False)
 
         pass
 

@@ -20,7 +20,7 @@ class Logger(object):
         f = open(self.file_name, "a+")
 
         if did_infect:
-            f.write("{} attempts to infect {}\n".format(person._id, random_person._id))
+            f.write("{} infects {}\n".format(person._id, random_person._id))
         elif random_person_sick:
             f.write("{} did not infect {} because {} is already sick\n".format(person._id, random_person._id, random_person._id))
         elif random_person_vacc:
