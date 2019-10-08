@@ -1,0 +1,2697 @@
+Population Size	Percent Vaccinated	Virus Name	Mortality Rate	Repro Rate
+100	0.1	Smallpox	0.5	0.5
+--------------------------------------------------------------------------------------------------
+0 infects 81
+0 infects 94
+0 infects 28
+0 infects 69
+0 infects 54
+0 infects 11
+0 infects 71
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 died from infection
+4 died from infection
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 died from infection
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 0 ended, beginning 1
+11 infects 13
+11 infects 12
+11 infects 93
+11 infects 48
+11 infects 90
+0 died from infection
+1 died from infection
+2 died from infection
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 died from infection
+6 died from infection
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 died from infection
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 died from infection
+70 survived the infection and is now vaccinated
+71 died from infection
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 died from infection
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 1 ended, beginning 2
+12 did not infect 81 because 81 is vaccinated
+12 infects 31
+12 did not infect 48 because 48 is already sick
+12 did not infect 81 because 81 is vaccinated
+12 infects 87
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 died from infection
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 died from infection
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 died from infection
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 died from infection
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 died from infection
+94 died from infection
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 2 ended, beginning 3
+31 infects 18
+31 did not infect 31 because 31 is already sick
+31 infects 74
+31 did not infect 11 because 11 is vaccinated
+31 infects 96
+31 infects 14
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 died from infection
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 died from infection
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 died from infection
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 3 ended, beginning 4
+14 did not infect 87 because 87 is vaccinated
+14 infects 92
+14 did not infect 14 because 14 is already sick
+14 infects 37
+14 infects 58
+14 infects 97
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 died from infection
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 died from infection
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 died from infection
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 died from infection
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 died from infection
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 4 ended, beginning 5
+37 did not infect 69 because 69 is vaccinated
+37 infects 76
+37 infects 39
+37 infects 10
+37 did not infect 97 because 97 is already sick
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 died from infection
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 died from infection
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 5 ended, beginning 6
+10 did not infect 96 because 96 is vaccinated
+10 did not infect 93 because 93 is vaccinated
+10 infects 88
+10 did not infect 39 because 39 is already sick
+10 infects 83
+10 infects 66
+10 infects 43
+10 infects 70
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 died from infection
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 died from infection
+75 survived the infection and is now vaccinated
+76 died from infection
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 6 ended, beginning 7
+43 infects 30
+43 infects 62
+43 infects 24
+43 infects 84
+43 infects 52
+43 did not infect 93 because 93 is vaccinated
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 died from infection
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 died from infection
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 died from infection
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 died from infection
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 7 ended, beginning 8
+24 infects 59
+24 did not infect 9 because 9 is vaccinated
+24 did not infect 83 because 83 is vaccinated
+24 did not infect 69 because 69 is vaccinated
+24 did not infect 11 because 11 is vaccinated
+24 did not infect 96 because 96 is vaccinated
+24 did not infect 30 because 30 is already sick
+24 infects 21
+24 infects 61
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 died from infection
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 died from infection
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 died from infection
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 died from infection
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 8 ended, beginning 9
+21 did not infect 71 because 71 is vaccinated
+21 infects 91
+21 did not infect 69 because 69 is vaccinated
+21 infects 95
+21 did not infect 61 because 61 is already sick
+21 infects 67
+21 infects 65
+21 infects 23
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 died from infection
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 died from infection
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 died from infection
+60 survived the infection and is now vaccinated
+61 died from infection
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 died from infection
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 9 ended, beginning 10
+23 infects 33
+23 did not infect 91 because 91 is already sick
+23 infects 40
+23 infects 50
+23 infects 82
+23 did not infect 9 because 9 is vaccinated
+23 did not infect 58 because 58 is vaccinated
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 died from infection
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 died from infection
+66 survived the infection and is now vaccinated
+67 died from infection
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 died from infection
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 10 ended, beginning 11
+33 did not infect 69 because 69 is vaccinated
+33 did not infect 83 because 83 is vaccinated
+33 did not infect 67 because 67 is vaccinated
+33 did not infect 13 because 13 is vaccinated
+33 infects 17
+33 did not infect 13 because 13 is vaccinated
+33 infects 19
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 died from infection
+24 died from infection
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 died from infection
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 died from infection
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 died from infection
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 11 ended, beginning 12
+17 infects 35
+17 did not infect 81 because 81 is vaccinated
+17 did not infect 71 because 71 is vaccinated
+17 did not infect 9 because 9 is vaccinated
+17 did not infect 19 because 19 is already sick
+17 did not infect 69 because 69 is vaccinated
+17 did not infect 4 because 4 is vaccinated
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 died from infection
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 died from infection
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 died from infection
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 12 ended, beginning 13
+35 infects 45
+35 infects 85
+35 did not infect 52 because 52 is vaccinated
+35 did not infect 3 because 3 is vaccinated
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 died from infection
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 died from infection
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 13 ended, beginning 14
+45 did not infect 13 because 13 is vaccinated
+45 did not infect 48 because 48 is vaccinated
+45 did not infect 4 because 4 is vaccinated
+45 infects 60
+45 did not infect 58 because 58 is vaccinated
+45 infects 44
+45 infects 29
+45 infects 51
+45 infects 98
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 died from infection
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 died from infection
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 died from infection
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 14 ended, beginning 15
+29 did not infect 3 because 3 is vaccinated
+29 did not infect 4 because 4 is vaccinated
+29 did not infect 13 because 13 is vaccinated
+29 did not infect 76 because 76 is vaccinated
+29 infects 55
+29 did not infect 40 because 40 is vaccinated
+29 did not infect 65 because 65 is vaccinated
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 died from infection
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 died from infection
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 died from infection
+99 survived the infection and is now vaccinated
+Time step 15 ended, beginning 16
+55 did not infect 85 because 85 is vaccinated
+55 infects 25
+55 did not infect 85 because 85 is vaccinated
+55 did not infect 85 because 85 is vaccinated
+55 did not infect 52 because 52 is vaccinated
+55 infects 41
+55 infects 16
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 died from infection
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 died from infection
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 16 ended, beginning 17
+16 infects 72
+16 infects 38
+16 did not infect 59 because 59 is vaccinated
+16 infects 56
+16 did not infect 21 because 21 is vaccinated
+16 did not infect 81 because 81 is vaccinated
+16 infects 79
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 died from infection
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 died from infection
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 died from infection
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 17 ended, beginning 18
+38 did not infect 3 because 3 is vaccinated
+38 did not infect 60 because 60 is vaccinated
+38 did not infect 9 because 9 is vaccinated
+38 did not infect 58 because 58 is vaccinated
+38 infects 73
+38 infects 89
+38 did not infect 51 because 51 is vaccinated
+38 did not infect 18 because 18 is vaccinated
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 died from infection
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 died from infection
+56 died from infection
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 18 ended, beginning 19
+73 did not infect 89 because 89 is already sick
+73 did not infect 59 because 59 is vaccinated
+73 did not infect 71 because 71 is vaccinated
+73 infects 15
+73 did not infect 59 because 59 is vaccinated
+73 did not infect 85 because 85 is vaccinated
+73 did not infect 67 because 67 is vaccinated
+73 did not infect 71 because 71 is vaccinated
+73 did not infect 76 because 76 is vaccinated
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 died from infection
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 died from infection
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 died from infection
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 19 ended, beginning 20
+15 did not infect 60 because 60 is vaccinated
+15 infects 57
+15 did not infect 81 because 81 is vaccinated
+15 did not infect 98 because 98 is vaccinated
+15 infects 80
+15 did not infect 56 because 56 is vaccinated
+15 did not infect 9 because 9 is vaccinated
+15 infects 36
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 died from infection
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 20 ended, beginning 21
+36 infects 27
+36 did not infect 52 because 52 is vaccinated
+36 infects 53
+36 infects 53
+36 did not infect 98 because 98 is vaccinated
+36 did not infect 89 because 89 is vaccinated
+36 did not infect 48 because 48 is vaccinated
+36 did not infect 61 because 61 is vaccinated
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 died from infection
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 died from infection
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 died from infection
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 21 ended, beginning 22
+27 did not infect 53 because 53 is already sick
+27 did not infect 69 because 69 is vaccinated
+27 infects 34
+27 did not infect 3 because 3 is vaccinated
+27 infects 49
+27 did not infect 92 because 92 is vaccinated
+27 did not infect 21 because 21 is vaccinated
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 died from infection
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 died from infection
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 died from infection
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 died from infection
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 22 ended, beginning 23
+34 did not infect 3 because 3 is vaccinated
+34 did not infect 82 because 82 is vaccinated
+34 did not infect 59 because 59 is vaccinated
+34 did not infect 48 because 48 is vaccinated
+34 did not infect 27 because 27 is vaccinated
+34 did not infect 58 because 58 is vaccinated
+34 did not infect 43 because 43 is vaccinated
+34 did not infect 48 because 48 is vaccinated
+34 did not infect 96 because 96 is vaccinated
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 died from infection
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 survived the infection and is now vaccinated
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 23 ended, beginning 24
+0 survived the infection and is now vaccinated
+1 survived the infection and is now vaccinated
+2 survived the infection and is now vaccinated
+3 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 survived the infection and is now vaccinated
+8 survived the infection and is now vaccinated
+9 survived the infection and is now vaccinated
+10 survived the infection and is now vaccinated
+11 survived the infection and is now vaccinated
+12 survived the infection and is now vaccinated
+13 survived the infection and is now vaccinated
+14 survived the infection and is now vaccinated
+15 survived the infection and is now vaccinated
+16 survived the infection and is now vaccinated
+17 survived the infection and is now vaccinated
+18 survived the infection and is now vaccinated
+19 survived the infection and is now vaccinated
+20 survived the infection and is now vaccinated
+21 survived the infection and is now vaccinated
+22 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 survived the infection and is now vaccinated
+25 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+27 survived the infection and is now vaccinated
+28 survived the infection and is now vaccinated
+29 survived the infection and is now vaccinated
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+33 survived the infection and is now vaccinated
+34 survived the infection and is now vaccinated
+35 survived the infection and is now vaccinated
+36 survived the infection and is now vaccinated
+37 survived the infection and is now vaccinated
+38 survived the infection and is now vaccinated
+39 survived the infection and is now vaccinated
+40 survived the infection and is now vaccinated
+41 survived the infection and is now vaccinated
+42 survived the infection and is now vaccinated
+43 survived the infection and is now vaccinated
+44 survived the infection and is now vaccinated
+45 survived the infection and is now vaccinated
+46 survived the infection and is now vaccinated
+47 survived the infection and is now vaccinated
+48 survived the infection and is now vaccinated
+49 died from infection
+50 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+52 survived the infection and is now vaccinated
+53 survived the infection and is now vaccinated
+54 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+58 survived the infection and is now vaccinated
+59 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+63 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+65 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 survived the infection and is now vaccinated
+68 survived the infection and is now vaccinated
+69 survived the infection and is now vaccinated
+70 survived the infection and is now vaccinated
+71 survived the infection and is now vaccinated
+72 survived the infection and is now vaccinated
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+76 survived the infection and is now vaccinated
+77 survived the infection and is now vaccinated
+78 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+83 survived the infection and is now vaccinated
+84 survived the infection and is now vaccinated
+85 survived the infection and is now vaccinated
+86 survived the infection and is now vaccinated
+87 survived the infection and is now vaccinated
+88 survived the infection and is now vaccinated
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+91 survived the infection and is now vaccinated
+92 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+95 survived the infection and is now vaccinated
+96 survived the infection and is now vaccinated
+97 survived the infection and is now vaccinated
+98 survived the infection and is now vaccinated
+99 survived the infection and is now vaccinated
+Time step 24 ended, beginning 25

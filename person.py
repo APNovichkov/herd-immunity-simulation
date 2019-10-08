@@ -5,11 +5,13 @@ random.seed(42)
 
 
 class Person(object):
-    def __init__(self, _id, is_vaccinated, logger, infection=None):
+
+    def __init__(self, _id, is_vaccinated, logger, is_infected, infection=None):
         self._id = _id
         self.is_alive = True
         self.is_vaccinated = None
         self.infection = infection
+        self.is_infected = is_infected
         self.logger = logger
 
     def did_survive_infection(self):
@@ -21,17 +23,20 @@ class Person(object):
         # Only called if infection attribute is not None.
         # TODO:  Finish this method. Should return a Boolean
         did_survive = None
-        random_number = random.random()
 
-        if self.infection is not None:
-            if random_number > self.infection.mortality_rate:
+        if self.is_infected:
+            if random.random() > self.infection.mortality_rate:
+                # Survives
                 self.is_vaccinated = True
                 self.infection = None
-                self.is_alive = True
+                self.is_infected = False
                 did_survive = True
             else:
+                # Dies
                 self.is_alive = False
-                self.is_vaccinated = False
+                # self.is_vaccinated = None
+                # self.infection = None
+                # self.is_infected = None
                 did_survive = False
 
         self.logger.log_infection_survival(self, did_survive)
