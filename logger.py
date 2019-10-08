@@ -14,7 +14,7 @@ class Logger(object):
         f.write("--------------------------------------------------------------------------------------------------\n")
 
         f.close()
-        pass
+        
 
     def log_interaction(self, person, random_person, random_person_sick=None, random_person_vacc=None, did_infect=None):
         f = open(self.file_name, "a+")
@@ -29,7 +29,7 @@ class Logger(object):
             f.write("{} did not infect {} because {} got lucky\n".format(person._id, random_person._id, random_person._id))
 
         f.close()
-        pass
+        
 
     def log_infection_survival(self, person, did_die_from_infection):
         f = open(self.file_name, "a+")
@@ -47,7 +47,7 @@ class Logger(object):
         '''
 
         f.close()
-        pass
+        
 
     def log_time_step(self, time_step_number):
         f = open(self.file_name, "a+")
@@ -67,19 +67,28 @@ class Logger(object):
         '''
 
         f.close()
-        pass
+        
 
 def test_logger_initialization(self):
-    pass
+    file_name = 'Smallpox_simulation_pop_30_vp_0.5_infected_1.txt'
+    logger = Logger(file_name)
+    assert logger.file_name == 'Smallpox_simulation_pop_30_vp_0.5_infected_1.txt'
 
 def test_write_metadata(self):
-    pass
+    file_name = 'Smallpox_simulation_pop_30_vp_0.5_infected_1.txt'
+    logger = Logger(file_name)
+    
 
 def test_log_interaction(self):
-    pass
+    file_name = 'Smallpox_simulation_pop_30_vp_0.5_infected_1.txt'
+    logger = Logger(file_name)
 
 def test_log_infection_survival(self):
-    pass
+    file_name = 'Smallpox_simulation_pop_30_vp_0.5_infected_1.txt'
+    logger = Logger(file_name)
 
 def test_log_time_step(self):
-    pass
+    file_name = 'Smallpox_simulation_pop_30_vp_0.5_infected_1.txt'
+    logger = Logger(file_name)
+    
+
