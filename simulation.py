@@ -106,6 +106,7 @@ class Simulation(object):
         for person in self.population:
             # Check if person is infected and alive!
             if person.is_infected and person.is_alive:
+                # print("Person {} thats infected is infecting".format(person._id))
                 # Have that person interact with NUM_PPL_TO_INTERACT_WITH people
                 while interaction_counter < self.NUM_PPL_TO_INTERACT_WITH:
                     # Get a random person from population
@@ -117,9 +118,12 @@ class Simulation(object):
                         self.interaction(person, random_person)
                         interaction_counter += 1
 
+                interaction_counter = 0
+
         # Check if every infected person in the population survived or died
         for person in self.population:
-            person.did_survive_infection()
+            if person.is_infected:
+                person.did_survive_infection()
 
         # Infect newly infected
         self.infect_newly_infected()
@@ -138,13 +142,13 @@ class Simulation(object):
                 self.newly_infected.append(random_person._id)
                 self.logger.log_interaction(person, random_person, False, False, True)
         else:
-            print("Im here!")
+            # person is infected or vaccinated already
             self.logger.log_interaction(person, random_person, self.is_person_infected(random_person), random_person.is_vaccinated, False)
         pass
 
     def infect_newly_infected(self):
         for person_id in self.newly_infected:
-            self.population[(person_id)].infection = self.virus
+            self.population[person_id].infection = self.virus
             self.population[person_id].is_infected = True
 
         self.newly_infected = []

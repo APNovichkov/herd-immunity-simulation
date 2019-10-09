@@ -24,24 +24,24 @@ class Person(object):
         # TODO:  Finish this method. Should return a Boolean
         did_survive = None
 
-        if self.is_infected:
-            if random.random() > self.infection.mortality_rate:
-                # Survives
-                self.is_vaccinated = True
-                self.infection = None
-                self.is_infected = False
-                did_survive = True
-            else:
-                # Dies
-                self.is_alive = False
-                # self.is_vaccinated = None
-                # self.infection = None
-                # self.is_infected = None
-                did_survive = False
+        if random.random() > self.infection.mortality_rate:
+            # Survives
+            self.is_vaccinated = True
+            self.infection = None
+            self.is_infected = False
+            did_survive = True
+        else:
+            # Dies
+            self.is_alive = False
+            did_survive = False
 
         self.logger.log_infection_survival(self, did_survive)
 
         return did_survive
+
+    def infect(self, virus):
+        self.is_infected = True
+        self.infection = virus
 
 
 ''' These are simple tests to ensure that you are instantiating your Person class correctly. '''
