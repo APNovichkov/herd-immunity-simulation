@@ -86,14 +86,16 @@ class Simulation(object):
         # _simulation_should_continue() to tell us whether or not we should continue
         # the simulation and run at least 1 more time_step.
 
-        time_step_counter = 0
+        time_step_counter = 1
 
-        while self.simulation_should_continue():
+        while True:
             self.time_step()
-            self.logger.log_time_step(time_step_counter)
-            time_step_counter += 1
-
-        print('The simulation has ended after {} steps'.format(time_step_counter))
+            if self.simulation_should_continue():
+                self.logger.log_time_step(time_step_counter)
+                time_step_counter += 1
+            else:
+                self.logger.log_input_string("The simulation has ended after {} steps".format(time_step_counter))
+                break
 
         pass
 

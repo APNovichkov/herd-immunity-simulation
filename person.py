@@ -32,6 +32,8 @@ class Person(object):
             did_survive = True
         else:
             # Dies
+            self.is_infected = False
+            self.infection = None
             self.is_alive = False
             did_survive = False
 

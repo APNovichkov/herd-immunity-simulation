@@ -29,23 +29,15 @@ class Logger(object):
 
         f.close()
 
-    def log_infection_survival(self, person, did_die_from_infection):
+    def log_infection_survival(self, person, did_survive):
         f = open(self.file_name, "a+")
 
-        if did_die_from_infection:
-            f.write("{} died from infection\n".format(person._id))
-        else:
+        if did_survive:
             f.write("{} survived the infection and is now vaccinated\n".format(person._id))
-
-        ''' The Simulation object uses this method to log the results of every
-        call of a Person object's .resolve_infection() method.
-
-        The format of the log should be:
-            "{person.ID} died from infection\n" or "{person.ID} survived infection.\n"
-        '''
+        else:
+            f.write("{} died from infection\n".format(person._id))
 
         f.close()
-
 
     def log_time_step(self, time_step_number):
         f = open(self.file_name, "a+")
@@ -66,6 +58,10 @@ class Logger(object):
 
         f.close()
 
+    def log_input_string(self, input_string):
+        f = open(self.file_name, 'a+')
+        f.write(input_string + "\n")
+        f.close()
 
 def test_logger_initialization(self):
     file_name = 'Smallpox_simulation_pop_30_vp_0.5_infected_1.txt'
