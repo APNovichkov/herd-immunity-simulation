@@ -97,7 +97,7 @@ class Simulation(object):
                 self.logger.log_input_string("The simulation has ended after {} steps".format(time_step_counter))
                 break
 
-        pass
+    
 
     # This function works!
     def time_step(self):
@@ -130,8 +130,6 @@ class Simulation(object):
         # Infect newly infected
         self.infect_newly_infected()
 
-        pass
-
     # This function is broken!
     def interaction(self, person, random_person):
         assert person.is_alive == True
@@ -146,26 +144,35 @@ class Simulation(object):
         else:
             # person is infected or vaccinated already
             self.logger.log_interaction(person, random_person, self.is_person_infected(random_person), random_person.is_vaccinated, False)
-        pass
 
     def infect_newly_infected(self):
-        for person_id in self.newly_infected:
-            self.population[person_id].infection = self.virus
-            self.population[person_id].is_infected = True
-
-        self.newly_infected = []
         ''' This method should iterate through the list of ._id stored in self.newly_infected
         and update each Person object with the disease. '''
         # TODO: Call this method at the end of every time step and infect each Person.
         # TODO: Once you have iterated through the entire list of self.newly_infected, remember
         # to reset self.newly_infected back to an empty list.
-        pass
+        for person_id in self.newly_infected:
+            self.population[person_id].infection = self.virus
+            self.population[person_id].is_infected = True
+
+        self.newly_infected = []
+
 
     def is_person_infected(self, person):
         return person.infection is not None
 
 
-if __name__ == "____-main__":
+
+
+
+def test_is_person_infected(self):
+    sim = Simulation(pop_size, vacc_percentage, initial_infected, None)
+
+    assert sim.is_person_infected == None
+
+
+
+if __name__ == "__main__":
     params = sys.argv[1:]
 
     virus_name = str(params[0])
@@ -199,3 +206,5 @@ if __name__ == "__main__":
     sim = Simulation(pop_size, vacc_percentage, initial_infected, virus)
 
     sim.run()
+
+

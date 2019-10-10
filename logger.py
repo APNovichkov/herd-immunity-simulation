@@ -95,12 +95,12 @@ def test_log_infection_survival(self):
 
     f = open(file_name, 'r')
 
-    logger.log_interaction(1, None)
+    logger.log_interaction(1, True)
 
     lines = f.readlines()
     f.close()
 
-    assert lines
+    assert lines == "1 survived the infection and is now vaccinated\n"
 
 def test_log_time_step(self):
     file_name = 'log_test.txt'

@@ -1,4 +1,9 @@
 What were the inputs you gave the simulation? (Population size, percent vaccinated, virus name, mortality rate, reproductive rate)
+Population size: 
+Percent vaccinated: 
+Virus name: 
+Mortality rate: 
+Reproductive rate:
 
 What percentage of the population became infected at some point before the virus burned out?
 
