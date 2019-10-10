@@ -68,23 +68,54 @@ class Logger(object):
 
 
 def test_logger_initialization(self):
-    file_name = 'Smallpox_simulation_pop_30_vp_0.5_infected_1.txt'
+    file_name = 'log_test.txt'
     logger = Logger(file_name)
-    assert logger.file_name == 'Smallpox_simulation_pop_30_vp_0.5_infected_1.txt'
+    assert logger.file_name == 'log_test.txt'
 
 def test_write_metadata(self):
-    file_name = 'Smallpox_simulation_pop_30_vp_0.5_infected_1.txt'
+    file_name = 'log_test.txt'
     logger = Logger(file_name)
+    f = open(file_name, 'r')
+
+    logger.write_metadata(100, 0.1, 'Smallpox', 0.5, 0.5)
+
+    lines = f.readlines()
+    f.close()
+
+    assert lines[3] == '100	0.1	Smallpox	0.5	0.5'
 
 
 def test_log_interaction(self):
-    file_name = 'Smallpox_simulation_pop_30_vp_0.5_infected_1.txt'
+    file_name = 'log_test.txt'
     logger = Logger(file_name)
+
+    f = open(file_name, 'r')
+
+    logger.log_interaction()
 
 def test_log_infection_survival(self):
-    file_name = 'Smallpox_simulation_pop_30_vp_0.5_infected_1.txt'
+    file_name = 'log_test.txt'
     logger = Logger(file_name)
+    
+    f = open(file_name, 'r')
+
+    logger.log_interaction(1,None)
+
+    lines = f.readlines()
+    f.close()
+
+    assert lines
+    
+
 
 def test_log_time_step(self):
-    file_name = 'Smallpox_simulation_pop_30_vp_0.5_infected_1.txt'
+    file_name = 'log_test.txt'
     logger = Logger(file_name)
+
+    f = open(file_name, 'r')
+
+    logger.log_time_step(0)
+
+    lines = f.readlines()
+    f.close()
+    assert lines[20] == 'Time step 0 ended, beginning 1'
