@@ -19,4 +19,4 @@ def test_virus_instantiation():
     smallpox_virus = Virus("Smallpox", .06, .17)
     assert smallpox_virus.name == "Smallpox"
     assert smallpox_virus.repro_rate == .06
-    assert smallpox_virus.mortality_rate == .2
+    assert smallpox_virus.mortality_rate == .17
