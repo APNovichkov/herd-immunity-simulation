@@ -41,15 +41,16 @@ def test_log_interaction():
 def test_log_infection_survival():
     file_name = 'log_test.txt'
     logger = Logger(file_name)
+    person = Person(1,True,None,None)
 
     f = open(file_name, 'r')
 
-    logger.log_interaction(1, True)
+    logger.log_infection_survival(person,True)
 
     lines = f.readlines()
     f.close()
 
-    assert lines == "1 survived the infection and is now vaccinated\n"
+    assert lines[4] == "1 survived the infection and is now vaccinated\n"
 
 def test_log_time_step():
     file_name = 'log_test.txt'
@@ -61,4 +62,4 @@ def test_log_time_step():
 
     lines = f.readlines()
     f.close()
-    assert lines[20] == 'Time step 0 ended, beginning 1'
+    assert lines[5] == "Time step 0 ended, beginning 1\n"

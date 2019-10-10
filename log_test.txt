@@ -1,3 +1,6 @@
 Population Size	Percent Vaccinated	Virus Name	Mortality Rate	Repro Rate
 100	0.1	Smallpox	0.5	0.5
 --------------------------------------------------------------------------------------------------
+1 infects 2
+1 survived the infection and is now vaccinated
+Time step 0 ended, beginning 1
