@@ -92,17 +92,15 @@ def test_log_interaction(self):
 def test_log_infection_survival(self):
     file_name = 'log_test.txt'
     logger = Logger(file_name)
-    
+
     f = open(file_name, 'r')
 
-    logger.log_interaction(1,None)
+    logger.log_interaction(1, None)
 
     lines = f.readlines()
     f.close()
 
     assert lines
-    
-
 
 def test_log_time_step(self):
     file_name = 'log_test.txt'
