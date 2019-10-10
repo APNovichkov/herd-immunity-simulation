@@ -4,3 +4,5 @@ Population Size	Percent Vaccinated	Virus Name	Mortality Rate	Repro Rate
 1 infects 2
 1 survived the infection and is now vaccinated
 Time step 0 ended, beginning 1
+4 survived the infection and is now vaccinated
+4 survived the infection and is now vaccinated

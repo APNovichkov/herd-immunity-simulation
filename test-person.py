@@ -45,8 +45,9 @@ def test_sick_person_instantiation():
 def test_did_survive_infection():
     # TODO: Create a Virus object to give a Person object an infection
     virus = Virus("Dysentery", 0.7, 0.2)
+    logger = Logger('log_test.txt')
     # TODO: Create a Person object and give them the virus infection
-    person = Person(4, False, None, None, virus)
+    person = Person(4, False, logger, None, virus)
 
     # Resolve whether the Person survives the infection or not
     survived = person.did_survive_infection()
@@ -57,7 +58,7 @@ def test_did_survive_infection():
         # the values of each attribute for a Person who survived
         # assert ...
         assert person.is_vaccinated is True
-        assert person.is_infected is None
+        assert person.is_infected is False
     else:
         assert person.is_alive is False
         # TODO: Write your own assert statements that test
