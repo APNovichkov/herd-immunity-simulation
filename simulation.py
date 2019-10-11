@@ -164,14 +164,6 @@ class Simulation(object):
 
 
 
-
-def test_is_person_infected(self):
-    sim = Simulation(pop_size, vacc_percentage, initial_infected, None)
-
-    assert sim.is_person_infected == None
-
-
-
 if __name__ == "__main__":
     params = sys.argv[1:]
 
