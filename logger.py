@@ -63,12 +63,12 @@ class Logger(object):
         f.write(input_string + "\n")
         f.close()
 
-def test_logger_initialization(self):
+def test_logger_initialization():
     file_name = 'log_test.txt'
     logger = Logger(file_name)
     assert logger.file_name == 'log_test.txt'
 
-def test_write_metadata(self):
+def test_write_metadata():
     file_name = 'log_test.txt'
     logger = Logger(file_name)
     f = open(file_name, 'r')
@@ -78,10 +78,10 @@ def test_write_metadata(self):
     lines = f.readlines()
     f.close()
 
-    assert lines[3] == '100	0.1	Smallpox	0.5	0.5'
+    assert lines[1] == '100\t0.1\tSmallpox\t0.5\t0.5\n'
 
 
-def test_log_interaction(self):
+def test_log_interaction():
     file_name = 'log_test.txt'
     logger = Logger(file_name)
 
@@ -89,7 +89,7 @@ def test_log_interaction(self):
 
     logger.log_interaction()
 
-def test_log_infection_survival(self):
+def test_log_infection_survival():
     file_name = 'log_test.txt'
     logger = Logger(file_name)
 
@@ -102,7 +102,7 @@ def test_log_infection_survival(self):
 
     assert lines
 
-def test_log_time_step(self):
+def test_log_time_step():
     file_name = 'log_test.txt'
     logger = Logger(file_name)
 
