@@ -9,7 +9,6 @@ class Logger(object):
         self.file_name = file_name
         self.stats = stats
 
-
     def write_metadata(self, pop_size, vacc_percentage, virus_name, mortality_rate, basic_repro_num):
         f = open(self.file_name, "w+")
 
