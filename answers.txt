@@ -6,9 +6,13 @@ Mortality rate: 0.5
 Reproductive rate: 0.5
 
 What percentage of the population became infected at some point before the virus burned out?
-
-
+Total infected by virus: 90
+Percent infected by virus: 90.0%
 
 What percentage of the population died from the virus?
+Total deaths from virus: 43
+Percent of people that died from virus: 43.0%
 
 Out of all interactions sick individuals had during the entire simulation, how many total interactions did we see where a vaccination saved a person from potentially becoming infected?
+Total interactions where a person was saved by vaccination: 47
+Percent of interactions where a person was saved by vaccination: 47.0%
