@@ -178,11 +178,11 @@ class Simulation(object):
         return person.infection is not None
 
 
-if __name__ == "___main__":
+if __name__ == "__main__":
     params = sys.argv[1:]
 
     virus_name = str(params[0])
-    repro_num = float(params[1])
+    repro_rate = float(params[1])
     mortality_rate = float(params[2])
     pop_size = int(params[3])
     vacc_percentage = float(params[4])
@@ -192,10 +192,13 @@ if __name__ == "___main__":
     else:
         initial_infected = 1
 
-    virus = Virus(name, repro_rate, mortality_rate)
+    virus = Virus(virus_name, repro_rate, mortality_rate)
     sim = Simulation(pop_size, vacc_percentage, initial_infected, virus)
 
     sim.run()
+
+"""
+This was our test main
 
 if __name__ == "__main__":
     # params = sys.argv[1:]
@@ -212,3 +215,4 @@ if __name__ == "__main__":
     sim = Simulation(pop_size, vacc_percentage, initial_infected, virus)
 
     sim.run()
+"""
