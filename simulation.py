@@ -3,6 +3,7 @@ import sys
 from person import Person
 from logger import Logger
 from virus import Virus
+from stats import Stats
 
 random.seed(42)
 
@@ -23,9 +24,11 @@ class Simulation(object):
         self.percent_vaccinated = percent_vaccinated
         self.num_dead = 0
 
+        self.stats = Stats(self.population_size)
+
         self.file_name = "{}_simulation_pop_{}_vp_{}_infected_{}.txt".format(
-            virus_name, population_size, vacc_percentage, initial_infected)
-        self.logger = Logger(self.file_name)
+            self.virus.name, population_size, vacc_percentage, initial_infected)
+        self.logger = Logger(self.file_name, self.stats)
 
         self.newly_infected = []
 
@@ -47,6 +50,7 @@ class Simulation(object):
                 print("This person is infected!")
                 person = Person(person_id, False, self.logger, True, self.virus)
                 people.append(person)
+                self.stats.increment_infection_num()
             elif person_id >= self.num_initial_infected and person_id < (self.percent_vaccinated * self.population_size + self.num_initial_infected):
                 print("This person is vaccinated")
                 person = Person(person_id, True, self.logger, False, None)
@@ -95,9 +99,9 @@ class Simulation(object):
                 time_step_counter += 1
             else:
                 self.logger.log_input_string("The simulation has ended after {} steps".format(time_step_counter))
+                self.stats.print_stats()
                 break
 
-        pass
 
     # This function works!
     def time_step(self):
@@ -130,8 +134,6 @@ class Simulation(object):
         # Infect newly infected
         self.infect_newly_infected()
 
-        pass
-
     # This function is broken!
     def interaction(self, person, random_person):
         assert person.is_alive == True
@@ -146,26 +148,37 @@ class Simulation(object):
         else:
             # person is infected or vaccinated already
             self.logger.log_interaction(person, random_person, self.is_person_infected(random_person), random_person.is_vaccinated, False)
-        pass
 
     def infect_newly_infected(self):
-        for person_id in self.newly_infected:
-            self.population[person_id].infection = self.virus
-            self.population[person_id].is_infected = True
-
-        self.newly_infected = []
         ''' This method should iterate through the list of ._id stored in self.newly_infected
         and update each Person object with the disease. '''
         # TODO: Call this method at the end of every time step and infect each Person.
         # TODO: Once you have iterated through the entire list of self.newly_infected, remember
         # to reset self.newly_infected back to an empty list.
-        pass
+
+        self.newly_infected = self.remove_duplicates(self.newly_infected)
+
+        for person_id in self.newly_infected:
+            self.population[person_id].infection = self.virus
+            self.population[person_id].is_infected = True
+            self.stats.increment_infection_num()
+
+        self.newly_infected = []
+
+    def remove_duplicates(self, array):
+        no_duplicates_array = []
+
+        for item in array:
+            if item not in no_duplicates_array:
+                no_duplicates_array.append(item)
+
+        return no_duplicates_array
 
     def is_person_infected(self, person):
         return person.infection is not None
 
 
-if __name__ == "____-main__":
+if __name__ == "___main__":
     params = sys.argv[1:]
 
     virus_name = str(params[0])

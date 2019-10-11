@@ -1,10 +1,14 @@
+from stats import Stats
+
 class Logger(object):
 
     # TODO: Write a test suite for this class to make sure each method is working
     # as expected.
 
-    def __init__(self, file_name):
+    def __init__(self, file_name, stats):
         self.file_name = file_name
+        self.stats = stats
+
 
     def write_metadata(self, pop_size, vacc_percentage, virus_name, mortality_rate, basic_repro_num):
         f = open(self.file_name, "w+")
@@ -34,8 +38,10 @@ class Logger(object):
 
         if did_survive:
             f.write("{} survived the infection and is now vaccinated\n".format(person._id))
+            self.stats.increment_saved_by_vaccination()
         else:
             f.write("{} died from infection\n".format(person._id))
+            self.stats.increment_death_num()
 
         f.close()
 

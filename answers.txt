@@ -1,6 +1,13 @@
 What were the inputs you gave the simulation? (Population size, percent vaccinated, virus name, mortality rate, reproductive rate)
+Population size: 100
+Percent vaccinated: 0.1
+Virus name: Smallpox
+Mortality rate: 0.5
+Reproductive rate: 0.5
 
 What percentage of the population became infected at some point before the virus burned out?
+
+
 
 What percentage of the population died from the virus?
 

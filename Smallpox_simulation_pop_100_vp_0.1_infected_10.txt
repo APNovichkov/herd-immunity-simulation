@@ -1,0 +1,870 @@
+Population Size	Percent Vaccinated	Virus Name	Mortality Rate	Repro Rate
+100	0.1	Smallpox	0.5	0.5
+--------------------------------------------------------------------------------------------------
+0 infects 81
+0 infects 94
+0 infects 28
+0 did not infect 13 because 13 is vaccinated
+0 infects 69
+0 infects 54
+0 did not infect 11 because 11 is vaccinated
+0 infects 27
+0 infects 77
+1 infects 28
+1 did not infect 0 because 0 is already sick
+1 infects 89
+1 infects 35
+1 infects 97
+1 did not infect 11 because 11 is vaccinated
+2 infects 48
+2 did not infect 5 because 5 is already sick
+2 infects 93
+2 did not infect 15 because 15 is vaccinated
+2 infects 48
+2 infects 90
+3 infects 84
+3 infects 48
+3 infects 20
+3 infects 82
+3 infects 81
+4 infects 93
+4 infects 59
+4 infects 40
+4 did not infect 8 because 8 is already sick
+5 infects 40
+5 infects 63
+5 infects 82
+5 infects 33
+5 infects 51
+5 did not infect 17 because 17 is vaccinated
+5 infects 65
+6 infects 96
+6 did not infect 14 because 14 is vaccinated
+6 did not infect 19 because 19 is vaccinated
+6 infects 80
+6 infects 87
+6 did not infect 8 because 8 is already sick
+6 infects 49
+6 did not infect 1 because 1 is already sick
+7 infects 96
+7 infects 82
+7 infects 37
+7 infects 58
+7 infects 97
+7 did not infect 13 because 13 is vaccinated
+8 infects 80
+8 infects 25
+8 infects 97
+8 did not infect 0 because 0 is already sick
+8 infects 76
+8 did not infect 2 because 2 is already sick
+8 did not infect 14 because 14 is vaccinated
+9 infects 39
+9 did not infect 10 because 10 is vaccinated
+9 did not infect 10 because 10 is vaccinated
+9 infects 93
+9 did not infect 8 because 8 is already sick
+9 did not infect 16 because 16 is vaccinated
+9 did not infect 16 because 16 is vaccinated
+9 infects 84
+0 survived the infection and is now vaccinated
+1 died from infection
+2 survived the infection and is now vaccinated
+3 died from infection
+4 died from infection
+5 survived the infection and is now vaccinated
+6 survived the infection and is now vaccinated
+7 died from infection
+8 died from infection
+9 survived the infection and is now vaccinated
+Time step 1 ended, beginning 2
+20 infects 83
+20 infects 66
+20 infects 31
+20 infects 43
+20 infects 70
+20 did not infect 28 because 28 is already sick
+20 did not infect 0 because 0 is vaccinated
+20 did not infect 9 because 9 is vaccinated
+20 did not infect 90 because 90 is already sick
+20 did not infect 80 because 80 is already sick
+25 infects 29
+25 infects 42
+25 infects 30
+25 infects 62
+25 did not infect 16 because 16 is vaccinated
+25 infects 52
+25 did not infect 12 because 12 is vaccinated
+27 did not infect 84 because 84 is already sick
+27 infects 55
+27 infects 52
+27 did not infect 93 because 93 is already sick
+27 did not infect 6 because 6 is vaccinated
+27 did not infect 82 because 82 is already sick
+27 did not infect 12 because 12 is vaccinated
+27 did not infect 51 because 51 is already sick
+27 did not infect 93 because 93 is already sick
+28 did not infect 13 because 13 is vaccinated
+28 infects 31
+28 infects 68
+28 did not infect 54 because 54 is already sick
+28 infects 23
+28 did not infect 9 because 9 is vaccinated
+28 infects 70
+33 did not infect 11 because 11 is vaccinated
+33 did not infect 96 because 96 is already sick
+33 infects 30
+33 infects 62
+33 did not infect 51 because 51 is already sick
+33 infects 21
+33 did not infect 49 because 49 is already sick
+33 did not infect 33 because 33 is already sick
+33 did not infect 58 because 58 is already sick
+35 infects 36
+35 did not infect 93 because 93 is already sick
+35 infects 62
+35 did not infect 37 because 37 is already sick
+35 did not infect 27 because 27 is already sick
+35 infects 95
+35 did not infect 6 because 6 is vaccinated
+35 infects 74
+37 infects 67
+37 did not infect 65 because 65 is already sick
+37 did not infect 10 because 10 is vaccinated
+37 infects 23
+37 did not infect 51 because 51 is already sick
+37 did not infect 15 because 15 is vaccinated
+37 infects 72
+37 did not infect 76 because 76 is already sick
+37 did not infect 5 because 5 is vaccinated
+39 infects 79
+39 did not infect 84 because 84 is already sick
+39 did not infect 40 because 40 is already sick
+39 did not infect 33 because 33 is already sick
+39 did not infect 40 because 40 is already sick
+39 infects 30
+39 did not infect 16 because 16 is vaccinated
+40 did not infect 58 because 58 is already sick
+40 did not infect 40 because 40 is already sick
+40 did not infect 96 because 96 is already sick
+40 did not infect 9 because 9 is vaccinated
+40 did not infect 58 because 58 is already sick
+40 did not infect 12 because 12 is vaccinated
+40 did not infect 9 because 9 is vaccinated
+40 infects 68
+40 did not infect 33 because 33 is already sick
+48 did not infect 16 because 16 is vaccinated
+48 infects 31
+48 did not infect 20 because 20 is already sick
+48 did not infect 90 because 90 is already sick
+49 did not infect 13 because 13 is vaccinated
+49 did not infect 17 because 17 is vaccinated
+49 did not infect 33 because 33 is already sick
+49 did not infect 14 because 14 is vaccinated
+49 did not infect 13 because 13 is vaccinated
+49 infects 34
+49 did not infect 33 because 33 is already sick
+51 infects 64
+51 did not infect 6 because 6 is vaccinated
+51 did not infect 11 because 11 is vaccinated
+51 did not infect 81 because 81 is already sick
+51 did not infect 54 because 54 is already sick
+51 did not infect 35 because 35 is already sick
+51 did not infect 5 because 5 is vaccinated
+51 did not infect 0 because 0 is vaccinated
+51 did not infect 81 because 81 is already sick
+54 did not infect 33 because 33 is already sick
+54 did not infect 20 because 20 is already sick
+54 did not infect 94 because 94 is already sick
+54 did not infect 54 because 54 is already sick
+54 infects 71
+54 did not infect 9 because 9 is vaccinated
+54 did not infect 69 because 69 is already sick
+58 did not infect 18 because 18 is vaccinated
+58 infects 55
+58 did not infect 39 because 39 is already sick
+58 did not infect 5 because 5 is vaccinated
+58 infects 45
+58 infects 95
+59 did not infect 94 because 94 is already sick
+59 infects 31
+59 did not infect 89 because 89 is already sick
+59 did not infect 13 because 13 is vaccinated
+59 did not infect 48 because 48 is already sick
+63 infects 60
+63 did not infect 58 because 58 is already sick
+63 infects 44
+63 infects 29
+63 did not infect 84 because 84 is already sick
+63 infects 24
+63 did not infect 35 because 35 is already sick
+63 infects 98
+63 did not infect 82 because 82 is already sick
+63 did not infect 65 because 65 is already sick
+65 did not infect 51 because 51 is already sick
+65 infects 68
+65 did not infect 14 because 14 is vaccinated
+65 did not infect 33 because 33 is already sick
+65 did not infect 33 because 33 is already sick
+65 did not infect 13 because 13 is vaccinated
+65 did not infect 76 because 76 is already sick
+65 infects 55
+69 did not infect 40 because 40 is already sick
+69 did not infect 65 because 65 is already sick
+69 did not infect 14 because 14 is vaccinated
+69 did not infect 49 because 49 is already sick
+69 infects 73
+69 did not infect 5 because 5 is vaccinated
+69 did not infect 90 because 90 is already sick
+69 infects 55
+76 did not infect 94 because 94 is already sick
+76 did not infect 94 because 94 is already sick
+76 infects 85
+76 infects 55
+76 infects 79
+76 did not infect 15 because 15 is vaccinated
+76 infects 64
+76 infects 52
+77 did not infect 89 because 89 is already sick
+77 did not infect 37 because 37 is already sick
+77 infects 70
+77 did not infect 48 because 48 is already sick
+77 infects 38
+77 did not infect 0 because 0 is vaccinated
+77 infects 38
+80 did not infect 77 because 77 is already sick
+80 infects 83
+80 infects 56
+80 did not infect 27 because 27 is already sick
+80 did not infect 65 because 65 is already sick
+80 did not infect 94 because 94 is already sick
+81 did not infect 81 because 81 is already sick
+81 infects 79
+81 did not infect 96 because 96 is already sick
+81 did not infect 28 because 28 is already sick
+81 did not infect 25 because 25 is already sick
+81 did not infect 18 because 18 is vaccinated
+81 did not infect 5 because 5 is vaccinated
+82 did not infect 9 because 9 is vaccinated
+82 did not infect 58 because 58 is already sick
+82 infects 73
+82 did not infect 89 because 89 is already sick
+82 did not infect 49 because 49 is already sick
+82 did not infect 63 because 63 is already sick
+82 did not infect 51 because 51 is already sick
+82 infects 31
+82 infects 88
+84 did not infect 96 because 96 is already sick
+84 infects 99
+84 did not infect 89 because 89 is already sick
+84 infects 66
+84 infects 71
+84 did not infect 15 because 15 is vaccinated
+84 did not infect 58 because 58 is already sick
+84 did not infect 17 because 17 is vaccinated
+87 did not infect 59 because 59 is already sick
+87 did not infect 96 because 96 is already sick
+87 did not infect 54 because 54 is already sick
+87 infects 70
+87 did not infect 20 because 20 is already sick
+89 infects 57
+89 did not infect 35 because 35 is already sick
+89 did not infect 35 because 35 is already sick
+89 infects 56
+89 infects 36
+89 infects 42
+89 did not infect 69 because 69 is already sick
+90 did not infect 10 because 10 is vaccinated
+90 did not infect 17 because 17 is vaccinated
+90 did not infect 19 because 19 is vaccinated
+90 infects 29
+90 did not infect 19 because 19 is vaccinated
+90 did not infect 90 because 90 is already sick
+90 did not infect 27 because 27 is already sick
+90 infects 53
+90 did not infect 69 because 69 is already sick
+90 did not infect 59 because 59 is already sick
+93 infects 53
+93 infects 53
+93 did not infect 89 because 89 is already sick
+93 did not infect 2 because 2 is vaccinated
+93 did not infect 97 because 97 is already sick
+93 infects 73
+93 did not infect 0 because 0 is vaccinated
+93 infects 45
+93 did not infect 49 because 49 is already sick
+94 did not infect 94 because 94 is already sick
+94 did not infect 69 because 69 is already sick
+94 did not infect 77 because 77 is already sick
+94 did not infect 28 because 28 is already sick
+94 infects 62
+94 infects 55
+94 did not infect 49 because 49 is already sick
+94 did not infect 51 because 51 is already sick
+96 infects 92
+96 did not infect 59 because 59 is already sick
+96 did not infect 16 because 16 is vaccinated
+96 did not infect 84 because 84 is already sick
+96 did not infect 10 because 10 is vaccinated
+96 did not infect 82 because 82 is already sick
+96 did not infect 54 because 54 is already sick
+96 did not infect 17 because 17 is vaccinated
+97 did not infect 59 because 59 is already sick
+97 infects 23
+97 did not infect 48 because 48 is already sick
+97 infects 41
+97 infects 41
+97 did not infect 48 because 48 is already sick
+97 did not infect 35 because 35 is already sick
+97 did not infect 96 because 96 is already sick
+97 infects 53
+97 did not infect 10 because 10 is vaccinated
+20 died from infection
+25 survived the infection and is now vaccinated
+27 died from infection
+28 survived the infection and is now vaccinated
+33 died from infection
+35 died from infection
+37 survived the infection and is now vaccinated
+39 died from infection
+40 died from infection
+48 died from infection
+49 survived the infection and is now vaccinated
+51 survived the infection and is now vaccinated
+54 died from infection
+58 died from infection
+59 died from infection
+63 survived the infection and is now vaccinated
+65 died from infection
+69 died from infection
+76 died from infection
+77 survived the infection and is now vaccinated
+80 survived the infection and is now vaccinated
+81 survived the infection and is now vaccinated
+82 survived the infection and is now vaccinated
+84 died from infection
+87 died from infection
+89 survived the infection and is now vaccinated
+90 survived the infection and is now vaccinated
+93 survived the infection and is now vaccinated
+94 survived the infection and is now vaccinated
+96 died from infection
+97 survived the infection and is now vaccinated
+Time step 2 ended, beginning 3
+21 did not infect 25 because 25 is vaccinated
+21 did not infect 9 because 9 is vaccinated
+21 did not infect 80 because 80 is vaccinated
+21 did not infect 31 because 31 is already sick
+21 did not infect 13 because 13 is vaccinated
+21 did not infect 89 because 89 is vaccinated
+21 did not infect 98 because 98 is already sick
+21 did not infect 38 because 38 is already sick
+21 did not infect 15 because 15 is vaccinated
+23 did not infect 72 because 72 is already sick
+23 did not infect 5 because 5 is vaccinated
+23 did not infect 44 because 44 is already sick
+23 did not infect 68 because 68 is already sick
+23 infects 47
+23 did not infect 82 because 82 is vaccinated
+23 did not infect 43 because 43 is already sick
+23 did not infect 53 because 53 is already sick
+23 did not infect 62 because 62 is already sick
+23 did not infect 13 because 13 is vaccinated
+24 did not infect 55 because 55 is already sick
+24 did not infect 90 because 90 is vaccinated
+24 did not infect 19 because 19 is vaccinated
+24 did not infect 55 because 55 is already sick
+24 did not infect 83 because 83 is already sick
+24 did not infect 34 because 34 is already sick
+24 did not infect 68 because 68 is already sick
+29 did not infect 99 because 99 is already sick
+29 infects 61
+29 did not infect 93 because 93 is vaccinated
+29 infects 75
+29 did not infect 31 because 31 is already sick
+29 did not infect 11 because 11 is vaccinated
+29 did not infect 57 because 57 is already sick
+29 did not infect 31 because 31 is already sick
+29 did not infect 72 because 72 is already sick
+30 did not infect 43 because 43 is already sick
+30 did not infect 63 because 63 is vaccinated
+30 did not infect 41 because 41 is already sick
+30 did not infect 23 because 23 is already sick
+30 did not infect 62 because 62 is already sick
+30 did not infect 45 because 45 is already sick
+30 did not infect 43 because 43 is already sick
+30 did not infect 89 because 89 is vaccinated
+30 did not infect 71 because 71 is already sick
+30 did not infect 66 because 66 is already sick
+31 did not infect 24 because 24 is already sick
+31 did not infect 10 because 10 is vaccinated
+31 did not infect 30 because 30 is already sick
+31 did not infect 92 because 92 is already sick
+31 did not infect 52 because 52 is already sick
+31 did not infect 62 because 62 is already sick
+31 did not infect 71 because 71 is already sick
+31 did not infect 97 because 97 is vaccinated
+31 did not infect 30 because 30 is already sick
+31 did not infect 88 because 88 is already sick
+34 did not infect 60 because 60 is already sick
+34 did not infect 82 because 82 is vaccinated
+34 infects 91
+34 did not infect 2 because 2 is vaccinated
+34 did not infect 11 because 11 is vaccinated
+34 did not infect 37 because 37 is vaccinated
+34 did not infect 28 because 28 is vaccinated
+34 did not infect 51 because 51 is vaccinated
+34 did not infect 88 because 88 is already sick
+34 did not infect 31 because 31 is already sick
+36 did not infect 74 because 74 is already sick
+36 infects 47
+36 did not infect 67 because 67 is already sick
+36 did not infect 44 because 44 is already sick
+36 did not infect 95 because 95 is already sick
+36 did not infect 70 because 70 is already sick
+36 did not infect 42 because 42 is already sick
+36 did not infect 45 because 45 is already sick
+36 did not infect 89 because 89 is vaccinated
+36 did not infect 34 because 34 is already sick
+38 infects 32
+38 did not infect 92 because 92 is already sick
+38 did not infect 24 because 24 is already sick
+38 did not infect 15 because 15 is vaccinated
+38 did not infect 95 because 95 is already sick
+38 did not infect 68 because 68 is already sick
+38 did not infect 97 because 97 is vaccinated
+38 did not infect 88 because 88 is already sick
+38 did not infect 23 because 23 is already sick
+38 did not infect 24 because 24 is already sick
+41 did not infect 94 because 94 is vaccinated
+41 infects 61
+41 did not infect 67 because 67 is already sick
+41 did not infect 36 because 36 is already sick
+41 did not infect 12 because 12 is vaccinated
+41 did not infect 24 because 24 is already sick
+41 did not infect 37 because 37 is vaccinated
+41 did not infect 29 because 29 is already sick
+41 infects 46
+42 did not infect 90 because 90 is vaccinated
+42 did not infect 68 because 68 is already sick
+42 did not infect 16 because 16 is vaccinated
+42 did not infect 5 because 5 is vaccinated
+42 did not infect 6 because 6 is vaccinated
+42 did not infect 70 because 70 is already sick
+42 did not infect 37 because 37 is vaccinated
+42 did not infect 89 because 89 is vaccinated
+42 did not infect 16 because 16 is vaccinated
+42 did not infect 81 because 81 is vaccinated
+43 did not infect 62 because 62 is already sick
+43 did not infect 13 because 13 is vaccinated
+43 did not infect 73 because 73 is already sick
+43 did not infect 36 because 36 is already sick
+43 did not infect 60 because 60 is already sick
+43 infects 61
+43 did not infect 23 because 23 is already sick
+43 did not infect 6 because 6 is vaccinated
+43 infects 61
+44 did not infect 51 because 51 is vaccinated
+44 did not infect 62 because 62 is already sick
+44 did not infect 9 because 9 is vaccinated
+44 did not infect 73 because 73 is already sick
+44 did not infect 80 because 80 is vaccinated
+44 did not infect 6 because 6 is vaccinated
+44 did not infect 19 because 19 is vaccinated
+44 did not infect 19 because 19 is vaccinated
+44 did not infect 72 because 72 is already sick
+44 did not infect 38 because 38 is already sick
+45 did not infect 10 because 10 is vaccinated
+45 did not infect 31 because 31 is already sick
+45 did not infect 15 because 15 is vaccinated
+45 did not infect 71 because 71 is already sick
+45 did not infect 97 because 97 is vaccinated
+45 did not infect 53 because 53 is already sick
+45 did not infect 77 because 77 is vaccinated
+45 did not infect 79 because 79 is already sick
+45 did not infect 28 because 28 is vaccinated
+45 did not infect 99 because 99 is already sick
+52 did not infect 66 because 66 is already sick
+52 did not infect 57 because 57 is already sick
+52 did not infect 56 because 56 is already sick
+52 did not infect 38 because 38 is already sick
+52 did not infect 72 because 72 is already sick
+52 did not infect 79 because 79 is already sick
+52 did not infect 12 because 12 is vaccinated
+52 did not infect 97 because 97 is vaccinated
+53 did not infect 10 because 10 is vaccinated
+53 did not infect 30 because 30 is already sick
+53 did not infect 0 because 0 is vaccinated
+53 did not infect 52 because 52 is already sick
+53 did not infect 57 because 57 is already sick
+53 did not infect 88 because 88 is already sick
+53 did not infect 60 because 60 is already sick
+53 did not infect 37 because 37 is vaccinated
+55 did not infect 29 because 29 is already sick
+55 did not infect 36 because 36 is already sick
+55 did not infect 90 because 90 is vaccinated
+55 did not infect 36 because 36 is already sick
+55 did not infect 89 because 89 is vaccinated
+55 did not infect 9 because 9 is vaccinated
+55 did not infect 29 because 29 is already sick
+55 did not infect 80 because 80 is vaccinated
+55 did not infect 25 because 25 is vaccinated
+56 did not infect 14 because 14 is vaccinated
+56 did not infect 28 because 28 is vaccinated
+56 did not infect 82 because 82 is vaccinated
+56 did not infect 19 because 19 is vaccinated
+56 did not infect 34 because 34 is already sick
+56 did not infect 18 because 18 is vaccinated
+56 did not infect 9 because 9 is vaccinated
+56 did not infect 21 because 21 is already sick
+56 did not infect 95 because 95 is already sick
+56 did not infect 72 because 72 is already sick
+57 did not infect 36 because 36 is already sick
+57 did not infect 56 because 56 is already sick
+57 did not infect 15 because 15 is vaccinated
+57 did not infect 88 because 88 is already sick
+57 did not infect 38 because 38 is already sick
+57 did not infect 89 because 89 is vaccinated
+57 did not infect 51 because 51 is vaccinated
+57 did not infect 34 because 34 is already sick
+57 did not infect 64 because 64 is already sick
+57 did not infect 63 because 63 is vaccinated
+60 did not infect 56 because 56 is already sick
+60 did not infect 10 because 10 is vaccinated
+60 did not infect 5 because 5 is vaccinated
+60 did not infect 55 because 55 is already sick
+60 did not infect 94 because 94 is vaccinated
+60 did not infect 41 because 41 is already sick
+60 did not infect 77 because 77 is vaccinated
+60 infects 32
+60 did not infect 29 because 29 is already sick
+62 did not infect 73 because 73 is already sick
+62 did not infect 97 because 97 is vaccinated
+62 did not infect 73 because 73 is already sick
+62 did not infect 5 because 5 is vaccinated
+62 did not infect 97 because 97 is vaccinated
+62 infects 22
+62 did not infect 83 because 83 is already sick
+62 did not infect 56 because 56 is already sick
+64 did not infect 23 because 23 is already sick
+64 did not infect 74 because 74 is already sick
+64 did not infect 55 because 55 is already sick
+64 did not infect 81 because 81 is vaccinated
+64 did not infect 62 because 62 is already sick
+64 did not infect 11 because 11 is vaccinated
+64 did not infect 60 because 60 is already sick
+64 did not infect 44 because 44 is already sick
+64 did not infect 52 because 52 is already sick
+64 did not infect 42 because 42 is already sick
+66 did not infect 41 because 41 is already sick
+66 did not infect 85 because 85 is already sick
+66 did not infect 13 because 13 is vaccinated
+66 did not infect 42 because 42 is already sick
+66 did not infect 52 because 52 is already sick
+66 did not infect 88 because 88 is already sick
+66 did not infect 63 because 63 is vaccinated
+66 did not infect 36 because 36 is already sick
+66 did not infect 51 because 51 is vaccinated
+66 did not infect 97 because 97 is vaccinated
+67 did not infect 70 because 70 is already sick
+67 did not infect 11 because 11 is vaccinated
+67 infects 32
+67 did not infect 98 because 98 is already sick
+67 did not infect 51 because 51 is vaccinated
+67 did not infect 0 because 0 is vaccinated
+67 did not infect 52 because 52 is already sick
+67 did not infect 6 because 6 is vaccinated
+67 did not infect 24 because 24 is already sick
+67 did not infect 66 because 66 is already sick
+68 did not infect 63 because 63 is vaccinated
+68 did not infect 80 because 80 is vaccinated
+68 did not infect 56 because 56 is already sick
+68 did not infect 97 because 97 is vaccinated
+68 did not infect 6 because 6 is vaccinated
+68 infects 26
+68 did not infect 16 because 16 is vaccinated
+68 did not infect 36 because 36 is already sick
+68 did not infect 56 because 56 is already sick
+70 did not infect 89 because 89 is vaccinated
+70 did not infect 62 because 62 is already sick
+70 did not infect 15 because 15 is vaccinated
+70 did not infect 80 because 80 is vaccinated
+70 did not infect 77 because 77 is vaccinated
+70 did not infect 30 because 30 is already sick
+70 did not infect 90 because 90 is vaccinated
+70 did not infect 70 because 70 is already sick
+70 did not infect 70 because 70 is already sick
+70 did not infect 52 because 52 is already sick
+71 did not infect 11 because 11 is vaccinated
+71 did not infect 28 because 28 is vaccinated
+71 did not infect 14 because 14 is vaccinated
+71 did not infect 15 because 15 is vaccinated
+71 did not infect 82 because 82 is vaccinated
+71 did not infect 19 because 19 is vaccinated
+71 did not infect 63 because 63 is vaccinated
+71 infects 91
+71 did not infect 90 because 90 is vaccinated
+71 did not infect 34 because 34 is already sick
+72 did not infect 53 because 53 is already sick
+72 did not infect 31 because 31 is already sick
+72 did not infect 70 because 70 is already sick
+72 did not infect 18 because 18 is vaccinated
+72 did not infect 49 because 49 is vaccinated
+72 did not infect 24 because 24 is already sick
+72 did not infect 95 because 95 is already sick
+72 did not infect 17 because 17 is vaccinated
+72 did not infect 98 because 98 is already sick
+73 did not infect 53 because 53 is already sick
+73 did not infect 43 because 43 is already sick
+73 did not infect 64 because 64 is already sick
+73 did not infect 34 because 34 is already sick
+73 did not infect 0 because 0 is vaccinated
+73 did not infect 36 because 36 is already sick
+73 did not infect 92 because 92 is already sick
+73 did not infect 38 because 38 is already sick
+73 did not infect 62 because 62 is already sick
+74 did not infect 19 because 19 is vaccinated
+74 did not infect 57 because 57 is already sick
+74 did not infect 68 because 68 is already sick
+74 infects 61
+74 did not infect 70 because 70 is already sick
+74 did not infect 97 because 97 is vaccinated
+74 did not infect 41 because 41 is already sick
+74 did not infect 24 because 24 is already sick
+74 did not infect 89 because 89 is vaccinated
+74 did not infect 30 because 30 is already sick
+79 did not infect 73 because 73 is already sick
+79 did not infect 49 because 49 is vaccinated
+79 did not infect 29 because 29 is already sick
+79 did not infect 99 because 99 is already sick
+79 did not infect 52 because 52 is already sick
+79 did not infect 5 because 5 is vaccinated
+79 did not infect 95 because 95 is already sick
+79 did not infect 60 because 60 is already sick
+79 did not infect 90 because 90 is vaccinated
+79 did not infect 49 because 49 is vaccinated
+83 did not infect 83 because 83 is already sick
+83 did not infect 19 because 19 is vaccinated
+83 did not infect 63 because 63 is vaccinated
+83 did not infect 16 because 16 is vaccinated
+83 did not infect 64 because 64 is already sick
+83 infects 75
+83 did not infect 12 because 12 is vaccinated
+83 did not infect 56 because 56 is already sick
+83 did not infect 12 because 12 is vaccinated
+83 did not infect 67 because 67 is already sick
+85 did not infect 92 because 92 is already sick
+85 did not infect 18 because 18 is vaccinated
+85 did not infect 52 because 52 is already sick
+85 did not infect 83 because 83 is already sick
+85 did not infect 19 because 19 is vaccinated
+85 did not infect 9 because 9 is vaccinated
+85 did not infect 60 because 60 is already sick
+85 did not infect 43 because 43 is already sick
+85 did not infect 79 because 79 is already sick
+85 did not infect 88 because 88 is already sick
+88 did not infect 42 because 42 is already sick
+88 did not infect 80 because 80 is vaccinated
+88 did not infect 62 because 62 is already sick
+88 did not infect 79 because 79 is already sick
+88 did not infect 30 because 30 is already sick
+88 did not infect 80 because 80 is vaccinated
+88 did not infect 36 because 36 is already sick
+92 did not infect 29 because 29 is already sick
+92 did not infect 95 because 95 is already sick
+92 did not infect 11 because 11 is vaccinated
+92 did not infect 55 because 55 is already sick
+92 did not infect 12 because 12 is vaccinated
+92 did not infect 97 because 97 is vaccinated
+92 did not infect 81 because 81 is vaccinated
+92 did not infect 90 because 90 is vaccinated
+92 did not infect 12 because 12 is vaccinated
+92 did not infect 56 because 56 is already sick
+95 did not infect 21 because 21 is already sick
+95 did not infect 88 because 88 is already sick
+95 did not infect 38 because 38 is already sick
+95 did not infect 5 because 5 is vaccinated
+95 did not infect 41 because 41 is already sick
+95 did not infect 37 because 37 is vaccinated
+95 did not infect 45 because 45 is already sick
+95 infects 47
+95 did not infect 31 because 31 is already sick
+95 did not infect 67 because 67 is already sick
+98 did not infect 52 because 52 is already sick
+98 did not infect 72 because 72 is already sick
+98 did not infect 23 because 23 is already sick
+98 did not infect 21 because 21 is already sick
+98 infects 22
+98 did not infect 79 because 79 is already sick
+98 did not infect 30 because 30 is already sick
+98 did not infect 63 because 63 is vaccinated
+98 did not infect 74 because 74 is already sick
+98 did not infect 18 because 18 is vaccinated
+99 did not infect 29 because 29 is already sick
+99 did not infect 81 because 81 is vaccinated
+99 infects 32
+99 did not infect 85 because 85 is already sick
+99 did not infect 36 because 36 is already sick
+99 did not infect 9 because 9 is vaccinated
+99 did not infect 56 because 56 is already sick
+99 did not infect 44 because 44 is already sick
+99 infects 75
+21 survived the infection and is now vaccinated
+23 survived the infection and is now vaccinated
+24 died from infection
+29 died from infection
+30 survived the infection and is now vaccinated
+31 survived the infection and is now vaccinated
+34 died from infection
+36 died from infection
+38 died from infection
+41 died from infection
+42 survived the infection and is now vaccinated
+43 died from infection
+44 survived the infection and is now vaccinated
+45 died from infection
+52 died from infection
+53 survived the infection and is now vaccinated
+55 survived the infection and is now vaccinated
+56 survived the infection and is now vaccinated
+57 survived the infection and is now vaccinated
+60 survived the infection and is now vaccinated
+62 survived the infection and is now vaccinated
+64 survived the infection and is now vaccinated
+66 survived the infection and is now vaccinated
+67 died from infection
+68 survived the infection and is now vaccinated
+70 died from infection
+71 died from infection
+72 died from infection
+73 survived the infection and is now vaccinated
+74 survived the infection and is now vaccinated
+79 survived the infection and is now vaccinated
+83 died from infection
+85 died from infection
+88 survived the infection and is now vaccinated
+92 died from infection
+95 survived the infection and is now vaccinated
+98 died from infection
+99 died from infection
+Time step 3 ended, beginning 4
+22 did not infect 16 because 16 is vaccinated
+22 did not infect 11 because 11 is vaccinated
+22 did not infect 37 because 37 is vaccinated
+22 did not infect 95 because 95 is vaccinated
+22 did not infect 53 because 53 is vaccinated
+22 did not infect 22 because 22 is already sick
+22 did not infect 25 because 25 is vaccinated
+22 did not infect 16 because 16 is vaccinated
+22 did not infect 46 because 46 is already sick
+22 did not infect 64 because 64 is vaccinated
+26 did not infect 21 because 21 is vaccinated
+26 did not infect 32 because 32 is already sick
+26 did not infect 61 because 61 is already sick
+26 did not infect 37 because 37 is vaccinated
+26 did not infect 95 because 95 is vaccinated
+26 did not infect 14 because 14 is vaccinated
+26 did not infect 9 because 9 is vaccinated
+26 did not infect 18 because 18 is vaccinated
+26 did not infect 28 because 28 is vaccinated
+32 did not infect 46 because 46 is already sick
+32 did not infect 11 because 11 is vaccinated
+32 infects 50
+32 did not infect 68 because 68 is vaccinated
+32 did not infect 15 because 15 is vaccinated
+32 did not infect 47 because 47 is already sick
+32 did not infect 74 because 74 is vaccinated
+32 did not infect 81 because 81 is vaccinated
+46 did not infect 47 because 47 is already sick
+46 did not infect 13 because 13 is vaccinated
+46 infects 86
+46 did not infect 79 because 79 is vaccinated
+46 infects 78
+46 did not infect 81 because 81 is vaccinated
+46 did not infect 89 because 89 is vaccinated
+46 did not infect 14 because 14 is vaccinated
+46 did not infect 17 because 17 is vaccinated
+46 did not infect 5 because 5 is vaccinated
+47 did not infect 63 because 63 is vaccinated
+47 did not infect 14 because 14 is vaccinated
+47 did not infect 12 because 12 is vaccinated
+47 did not infect 30 because 30 is vaccinated
+47 did not infect 68 because 68 is vaccinated
+47 did not infect 17 because 17 is vaccinated
+47 did not infect 49 because 49 is vaccinated
+47 did not infect 47 because 47 is already sick
+47 did not infect 95 because 95 is vaccinated
+47 did not infect 89 because 89 is vaccinated
+61 did not infect 53 because 53 is vaccinated
+61 did not infect 75 because 75 is already sick
+61 did not infect 95 because 95 is vaccinated
+61 did not infect 93 because 93 is vaccinated
+61 did not infect 19 because 19 is vaccinated
+61 did not infect 53 because 53 is vaccinated
+61 did not infect 12 because 12 is vaccinated
+61 did not infect 62 because 62 is vaccinated
+61 infects 78
+61 did not infect 88 because 88 is vaccinated
+75 did not infect 47 because 47 is already sick
+75 did not infect 56 because 56 is vaccinated
+75 did not infect 56 because 56 is vaccinated
+75 did not infect 30 because 30 is vaccinated
+75 did not infect 46 because 46 is already sick
+75 did not infect 12 because 12 is vaccinated
+75 did not infect 47 because 47 is already sick
+75 did not infect 82 because 82 is vaccinated
+75 infects 50
+75 did not infect 15 because 15 is vaccinated
+91 did not infect 11 because 11 is vaccinated
+91 did not infect 82 because 82 is vaccinated
+91 did not infect 81 because 81 is vaccinated
+91 did not infect 2 because 2 is vaccinated
+91 did not infect 6 because 6 is vaccinated
+91 did not infect 42 because 42 is vaccinated
+91 did not infect 31 because 31 is vaccinated
+91 did not infect 16 because 16 is vaccinated
+91 did not infect 26 because 26 is already sick
+91 did not infect 97 because 97 is vaccinated
+22 survived the infection and is now vaccinated
+26 survived the infection and is now vaccinated
+32 survived the infection and is now vaccinated
+46 died from infection
+47 survived the infection and is now vaccinated
+61 survived the infection and is now vaccinated
+75 survived the infection and is now vaccinated
+91 died from infection
+Time step 4 ended, beginning 5
+50 did not infect 18 because 18 is vaccinated
+50 did not infect 16 because 16 is vaccinated
+50 did not infect 32 because 32 is vaccinated
+50 did not infect 22 because 22 is vaccinated
+50 did not infect 14 because 14 is vaccinated
+50 did not infect 16 because 16 is vaccinated
+50 did not infect 30 because 30 is vaccinated
+50 did not infect 75 because 75 is vaccinated
+50 did not infect 2 because 2 is vaccinated
+50 did not infect 22 because 22 is vaccinated
+78 did not infect 6 because 6 is vaccinated
+78 did not infect 16 because 16 is vaccinated
+78 did not infect 94 because 94 is vaccinated
+78 did not infect 53 because 53 is vaccinated
+78 did not infect 14 because 14 is vaccinated
+78 did not infect 95 because 95 is vaccinated
+78 did not infect 60 because 60 is vaccinated
+78 did not infect 57 because 57 is vaccinated
+78 did not infect 75 because 75 is vaccinated
+78 did not infect 13 because 13 is vaccinated
+86 did not infect 57 because 57 is vaccinated
+86 did not infect 64 because 64 is vaccinated
+86 did not infect 28 because 28 is vaccinated
+86 did not infect 78 because 78 is already sick
+86 did not infect 5 because 5 is vaccinated
+86 did not infect 93 because 93 is vaccinated
+86 did not infect 66 because 66 is vaccinated
+86 did not infect 82 because 82 is vaccinated
+86 did not infect 61 because 61 is vaccinated
+86 did not infect 51 because 51 is vaccinated
+50 died from infection
+78 died from infection
+86 survived the infection and is now vaccinated
+The simulation has ended after 5 steps
